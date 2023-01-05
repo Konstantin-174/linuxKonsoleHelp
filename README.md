@@ -1,0 +1,2 @@
+# linuxKonsoleHelp
+Learning Linux konsole
