@@ -50,3 +50,5 @@ kali@kali:/home/# chown root:root file.txt
 ```
 kali@kali:/home/# chmod +w file.sh
 ```
+* `rm` - Команда для удаления файлов. Чтобы удалить папку нужно смотреть в помощь;  
+
